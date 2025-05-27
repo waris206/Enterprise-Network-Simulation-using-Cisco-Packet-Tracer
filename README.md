@@ -87,5 +87,5 @@ Course: CS-3001 – Computer Networks
 
 ## Note
 
-This project was developed under academic guidelines. All configurations were created from scratch following proper subnetting, routing, and service design principles. No external configuration files or cheating was involved in the setup.
+This project was developed under academic guidelines. All configurations were created from scratch following proper subnetting, routing, and service design principles. 
 
