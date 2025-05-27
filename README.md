@@ -61,8 +61,9 @@ The goal is to design and configure an end-to-end functional network as per the 
 
 ## File Contents
 
-- `CS-3001-CNET-Project.pkt`: Cisco Packet Tracer simulation file
+- `23i2110.pkt`: Cisco Packet Tracer simulation file
 - `README.md`: Project documentation and summary
+- `23i2110.pdf`:Contain detials of subnetting along with testing documentation
   
 
 ---
