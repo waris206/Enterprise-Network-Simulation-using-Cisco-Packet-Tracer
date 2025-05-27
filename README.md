@@ -13,8 +13,7 @@ The goal is to design and configure an end-to-end functional network as per the 
 - Cisco Packet Tracer (Instructor Version)
 - VLSM Calculator (online)
 - Manual subnetting and planning
-- Google Sheets (for IP allocations)
-- GitHub (for version control and documentation)
+
 
 ---
 
@@ -64,8 +63,7 @@ The goal is to design and configure an end-to-end functional network as per the 
 
 - `CS-3001-CNET-Project.pkt`: Cisco Packet Tracer simulation file
 - `README.md`: Project documentation and summary
-- `subnetting_plan.xlsx`: VLSM and IP assignment breakdown (optional)
-- `screenshots/`: Key screenshots of configurations and ping tests (optional)
+  
 
 ---
 
@@ -80,9 +78,8 @@ The goal is to design and configure an end-to-end functional network as per the 
 
 ## Author
 
-**Muhammad Akash Waris**  
-Roll No: 23I-2110  
-Department of Computer Science  
+**Muhammad Akash Waris**   
+Department of Cyber Security  
 Course: CS-3001 – Computer Networks
 
 ---
